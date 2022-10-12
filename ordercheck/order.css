@@ -1,0 +1,44 @@
+.header{
+    background-color: grey;
+}
+
+.list{
+    margin: 10px;
+    
+
+}
+
+input{
+    margin-bottom: 30px;
+}
+
+.end{
+    vertical-align: 0em;
+}
+
+.side{
+    vertical-align: 0em;
+}
+
+.cycle{
+    vertical-align: 0em;
+}
+
+.sale{
+    vertical-align: 0em;
+}
+
+.costomer{
+    vertical-align: 0em;
+}
+.change{
+    vertical-align: 0em;
+}
+
+.categoly{
+    width: 300px;
+}
+
+.all{
+    display:flex;
+}
